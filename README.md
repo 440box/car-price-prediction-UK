@@ -1,4 +1,4 @@
-# car-price-prediction-UK
+# car price prediction UK
 
 .
 Scraped data for UK car price prediction 
